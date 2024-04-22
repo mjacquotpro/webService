@@ -5,7 +5,7 @@
 
 ## Technologies Utilisées
 - **Django REST Framework** : Utilisé pour construire l'API RESTful qui gère la base de données des films.
-- **Python** : Version 3.12.x
+- **Python** : Version 3.12.x 
 
 ## Fonctionnalités
 - **CRUD sur les films** : L'API permet les opérations suivantes sur les films :
